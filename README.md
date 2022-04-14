@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Para conhecer meus trabalhos e projetos recentes, acesse este [link](https://thalesmenegueco.github.io/cv/).
+Esta página espaço onde você pode me conhecer a mim e a meus projets. Para visualizar acesse este [link](https://thalesmenegueco.github.io/cv/).
 
 ## Me contate
 
