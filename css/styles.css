@@ -66,6 +66,15 @@
     text-decoration: underline;
   }
 
+  a div p {
+    color: black;
+  }
+
+  a div p:hover {
+    color: black;
+    text-decoration: none;
+  }
+
 /* Estilização de classes */
 
   .top-container {
@@ -84,6 +93,12 @@
 
   */
 
+  .specific-project {
+    background-color:rgba(252, 252, 252, 0.514);
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  }
+
   .pro {
     text-decoration: underline;
   }
@@ -96,6 +111,10 @@
     height: auto;
     width: 30%;
     margin-top: 2rem;
+  }
+
+  #img-projetos {
+    margin-top: 20px;
   }
 
   .cloud {
@@ -137,4 +156,9 @@
     left: 15%;
     top: 28rem;
   }
+}
+
+#img-projetos {
+  border: 2px;
+  border-radius: 8px;
 }

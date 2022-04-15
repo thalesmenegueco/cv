@@ -1,0 +1,94 @@
+:root{
+    font-size: 20px;
+}
+
+details div {
+    text-decoration: line-through;
+}
+
+#tarefa {
+    padding: 10px;
+    transition: 400ms;
+    font-size: 16px;
+    width: 220px;
+}
+
+#tarefa:hover {
+    box-shadow: 2px 2px 3px 0px black;
+}
+
+#tarefa:focus-visible {
+    outline: 0;
+}
+
+#numTarefas {
+    border-radius:8px;
+    background-color: rgba(255, 6, 6, 0.15);
+    padding: 10px;
+}
+
+#numTarefasFeitas {
+    border-radius:8px;
+    background-color: rgba(71, 240, 20, 0.15);
+    padding: 10px;
+}
+
+footer {
+    background-color: #1c5fb1af;
+    color: white;
+    margin-top: 2rem;
+    padding-bottom: 8px;
+    padding-top: 1rem;
+    text-align: center;
+  }
+
+  footer a {
+    color: white;
+  }
+
+  footer a[title="foursquare check in icons"] {
+      font-size: 0.8rem;
+  }
+
+/*Telas maiores que 600px*/
+@media (min-width: 600px) {
+    body {
+        margin: 50px 30%;
+    }
+
+    details {
+    border: 2px solid rgba(28,110,164,0.75);
+    border-radius: 8px;
+    margin-bottom: 20px;
+    margin-right: 0;
+    padding: 7px 10px 10px 10px;
+    width: 80%;
+    }
+}
+
+/*Telas menores que 600px*/
+@media (max-width: 650px) {
+    body {
+        margin: 50px 10%;
+    }
+    details {
+    border: 2px solid rgba(28,110,164,0.75);
+    border-radius: 8px;
+    padding: 7px 10px 10px 10px;
+    width: 80%;
+    }
+}
+
+
+@media (max-width: 350px) {
+    body {
+        margin: 50px 5%;
+    }
+
+    details {
+    border: 2px solid rgba(28,110,164,0.75);
+    border-radius: 8px;
+    padding: 7px 10px 10px 10px;
+    width: 90%;
+    }
+}
