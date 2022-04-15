@@ -74,12 +74,13 @@ footer {
     details {
     border: 2px solid rgba(28,110,164,0.75);
     border-radius: 8px;
+    margin-bottom: 20px;
     padding: 7px 10px 10px 10px;
     width: 80%;
     }
 }
 
-
+/*Telas menores que 350px*/
 @media (max-width: 350px) {
     body {
         margin: 50px 5%;
@@ -88,6 +89,7 @@ footer {
     details {
     border: 2px solid rgba(28,110,164,0.75);
     border-radius: 8px;
+    margin-bottom: 20px;
     padding: 7px 10px 10px 10px;
     width: 90%;
     }
