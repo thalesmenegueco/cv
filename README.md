@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Esta página é um espaço onde você pode me conhecer a mim e a meus projetos. Para visualizar acesse este [link](https://thalesmenegueco.github.io/cv/).
+Esta página é um espaço onde você pode conhecer a mim e a meus projetos. Para visualizar acesse este [link](https://thalesmenegueco.github.io/cv/).
 
 ### Projetos feitos
 
