@@ -6,7 +6,7 @@ Esta página é um espaço onde você pode conhecer a mim e a meus projetos. Par
 
 ### Projetos feitos
 
-- ✔ [To-do list](https://thalesmenegueco.github.io/cv/projetos/To-do%20list/todoList.html): Uma lista de tarefas, simples e direta ao ponto
+- ✔ <a href="https://thalesmenegueco.github.io/cv/projetos/To-do%20list/todoList.html" target="_blank">To-do list</a>: Uma lista de tarefas, simples e direta ao ponto
 
 ## Entre em contato
 
